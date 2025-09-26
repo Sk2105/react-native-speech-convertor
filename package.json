@@ -1,0 +1,27 @@
+{
+  "name": "react-native-speech-convertor",
+  "version": "1.0.1",
+  "description": "A React Native library for converting speech to text.",
+  "keywords": [
+    "react-native",
+    "speech-to-text",
+    "voice-recognition",
+    "speech",
+    "stt",
+    "android",
+    "ios"
+  ],
+  "license": "ISC",
+  "author": "Sachin Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "react-native": {
+    "android": {
+      "packageClass": "com.reactnativestt"
+
+    }
+  }
+}
