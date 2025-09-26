@@ -1,6 +1,6 @@
 {
   "name": "react-native-speech-convertor",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A React Native library for converting speech to text.",
   "keywords": [
     "react-native",
@@ -8,6 +8,8 @@
     "voice-recognition",
     "speech",
     "stt",
+    "voice-to-text",
+    "speech-recognition",
     "android",
     "ios"
   ],
@@ -23,5 +25,9 @@
       "packageClass": "com.reactnativestt"
 
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sk2105/react-native-speech-convertor"
   }
 }
